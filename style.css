@@ -1,0 +1,18 @@
+.tekst{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: large;
+}
+body{
+    background-color: rgb(133, 172, 255);
+}
+h3{
+    background-color: rgb(59, 99, 160);
+}
+h1{
+    background-color: rgb(59, 99, 160);
+}
+img{
+    border-radius: 10%;
+}
